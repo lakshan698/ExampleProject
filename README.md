@@ -1,0 +1,2 @@
+# ExampleProject
+For practical purposes
