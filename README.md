@@ -1,2 +1,4 @@
 # ExampleProject
-For practical purposes
+For practical purposes ExampleProject
+
+we can do more and 
